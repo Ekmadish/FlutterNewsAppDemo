@@ -24,7 +24,6 @@ class _HomeState extends State<Home> {
     News newsClass = News();
     await newsClass.getNews();
     articles = newsClass.news;
-
     setState(() {
       _loading = false;
     });

@@ -20,7 +20,6 @@ class News {
             urlToImage: element['urlToImage'],
             // publshedAt: DateTime.parse(element['publishedAt']),
             content: element["content"],
-
             url: element['url'],
             //articleUrl: element["url"],
           );
