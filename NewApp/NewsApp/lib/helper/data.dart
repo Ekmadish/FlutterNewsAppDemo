@@ -6,7 +6,7 @@ List<CategoryModel> getCategories() {
 
   //1
 
-  categoryModel.categoryName = 'Bussines';
+  categoryModel.categoryName = 'Business';
   categoryModel.imageUrl =
       'https://www.extensisgroup.com/getmedia/043c2549-29d3-49a7-b4af-b93fb7e3682e/How-PEO-Helps-Brokers?width=450&height=324';
   category.add(categoryModel);
