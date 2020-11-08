@@ -1,4 +1,4 @@
-# UIdemo
+# Http request demo
 
 A new Flutter project.
 
